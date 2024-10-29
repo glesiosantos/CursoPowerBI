@@ -1,4 +1,4 @@
-# LAB 02
+# LAB 02 - Dashboard Analítico de Vendas Globais
 
 > Abaixo estão as perguntas de negócio do Lab 2. Como forma de exercício, tente responderas perguntas no Power BI construindo os gráficos e então compare com as respostas que serão apresentadas nas aulas a seguir.
 
@@ -7,3 +7,7 @@
 3. A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
 4. Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
 5. Qual foi o comportamento da margem de lucro ao longo do tempo? Considere amargem de lucro como o lucro dividido pelo valor venda.Bons estudos
+
+---
+
+![Resultado!](/DSA/assets/lab02.png "Glêsio Santos - glesioss@gmail.com")
