@@ -12,4 +12,6 @@ Exercícios realizado em curso de POWER BI
 - [**LAB01** - Dashboard Analítico de Vendas Globais](/DSA/LAB01/peguntas_lab01.md) 
 - [**LAB02** - Dashboard de Vendas, Custo, Margem de Lucro e KPI](/DSA/LAB02/peguntas_lab2.md)
 - [**LAB03** - Análise  de  campanhas  de Marketing](/DSA/LAB03/peguntas_lab03.md)
+- [**LAB04** - KPIs da área comercial](/DSA/LAB04/principais_kpi.md)
+
 
